@@ -4,10 +4,15 @@
  
 Prerequisties:
 pip install opencv-python
+
 pip install numpy 
+
 pip install pandas 
+
 Pip install tensorflow
+
 Pip install keras
+
 Pip install h5py
 
 
