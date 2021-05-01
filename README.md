@@ -40,7 +40,7 @@ After user presses the key, webcam is being closed and the taken photo is being 
 ![resim](https://user-images.githubusercontent.com/55497058/116768520-d51c5f00-aa3f-11eb-85f9-fb3ffb8deb3b.png)
 
 
-Note: Rarely, when the enviroment is not shiny and clear or when program forced to evaluate non-human head objects or pictures, it may return negative floats and it may contain 1 which can be led false printing statements which only happens at the mentioned situations. I did not fixed it when I had finished it and I am just uploading it here for storage issues, So if it is being used in somewhere, better to handle this possible problem.
+Note: Rarely, when the enviroment is not shiny and clear or when program forced to evaluate non-human head objects or pictures, it may return negative floats and it may contain 1 which can be led false printing statements which only happens at the mentioned situations. I did not fixed it when I had finished it and I am just uploading it here for storage issues, So if it is being used in somewhere, better to handle this possible problem. Also when I did this project, it was 2020 april and thus there were not that many datasets with humans wearing masks, thus the dataset is relatively small and would be better to extend it before use.
 
 
 Some deeper informations about VGG which taken from Internet exists below for clarification.
